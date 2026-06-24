@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vinod Isaac
 
-**Staff Technical Writer @ Synopsys | Product Builder | Creator of NoSignupTools**
+**Product Builder | Creator of NoSignupTools**
 
 I build privacy-first, lightning-fast life utilities. I believe the best web tools shouldn't require you to create an account, download an app, or surrender your data. All of my projects run directly in the browser.
 
@@ -43,3 +43,4 @@ A free GPS camera stamping utility.
 - **Location:** Bengaluru, India
 
 *Always building. Always learning.*
+
