@@ -1,46 +1,36 @@
-# 👋 Hi, I'm Vinod Isaac
+👋 Hi, I'm Vinod Isaac
+Staff Technical Writer & Information Architecture Lead
 
-**Product Builder | Creator of NoSignupTools**
+I am a technical writer and documentation engineer specializing in Docs-as-Code, API documentation, and DITA single-sourcing. I build scalable documentation architectures that simplify complex systems for developers, admins, and end-users.
 
-I build privacy-first, lightning-fast life utilities. I believe the best web tools shouldn't require you to create an account, download an app, or surrender your data. All of my projects run directly in the browser.
+In my free time, I build privacy-first, zero-signup web utilities that run entirely in the browser, demonstrating my hands-on knowledge of frontend engineering and UX design.
 
----
+🚀 Technical Projects & Web Applications
+Here are the completely free, zero-signup tools I've built, deployed, and currently maintain:
 
-## 🚀 My Portfolio: NoSignupTools
-
-Here are the completely free, zero-signup tools I've built and currently maintain:
-
-### 📈 [GetNiftyReady](https://www.getniftyready.com)
-A live Indian stock market dashboard for retail investors. 
-- Real-time Nifty 50, Sensex, and FII/DII tracking.
-- Interactive SIP & SWP calculators.
-- Live 12-Week Moving Average Trend Signals.
-
-### 📄 [ATS Checker (AiGenResumes)](https://www.getatsready.com)
+📄 ATS Checker (GetATSReady)
 A privacy-first Applicant Tracking System (ATS) resume scanner.
-- Extracts text directly from PDFs in your browser.
-- Instantly scores your resume against job descriptions to help you beat the bots.
 
-### 👶 [Pregnancy Week Tracker](https://www.pregnancyweektracker.com)
-A beautiful, week-by-week pregnancy visualization tool.
-- Interactive SVG baby growth curve tracking length and weight.
-- 3D visual comparisons (e.g., comparing your baby to an ear of corn).
+Designed clear, concise error messages and user prompts.
+Extracts text directly from PDFs natively in your browser using 100% local, privacy-first data processing.
+🛂 GlobalVisaMath
+A web tool to calculate complex visa compliance (the 90/180-day Schengen rule).
 
-### 🛂 [Global Visa Math](https://www.globalvisamath.com)
-Immigration calculators and compliance tools.
-- The most accurate Schengen 90/180 rule calculator.
-- Dedicated passport and visa photo maker for 15+ countries (with auto-cropping).
+Focuses heavily on clear instructional text, logic matrices, and a straightforward, accessible user interface to simplify complex compliance data.
+📈 GetNiftyReady
+A live Indian stock market dashboard for retail investors.
 
-### 🌍 [GeoStamper](https://www.gpscamstamp.com)
-A free GPS camera stamping utility.
-- Instantly stamps live coordinates, altitude, address, and weather data onto your photos using high-res satellite imagery.
+Documents and consumes live REST APIs, formatting raw JSON payloads into readable, user-friendly data tables and trend signals.
+👶 Pregnancy Week Tracker
+A week-by-week pregnancy visualization tool.
 
----
+Structured health content into a clear, scannable UI with intuitive navigation and plain-language explanations for non-technical users.
+📸 GpsCamStamp
+A dynamic location-stamping tool for images.
 
-## 📫 Let's Connect
-
-- **LinkedIn:** [Vinod Isaac](https://www.linkedin.com/in/vinod-isaac)
-- **Location:** Bengaluru, India
-
-*Always building. Always learning.*
-
+Enforces consistent metadata structure and terminology on generated assets using HTML5.
+🛠️ Core Stack & Tools
+Docs-as-Code: Git, GitHub, Markdown, OpenAPI/Swagger
+Information Architecture: DITA XML, Oxygen XML Author, Taxonomy & Metadata Design
+Web Development: HTML, CSS, Vanilla JS
+Editorial Governance: Acrolinx (Super User), Microsoft Manual of Style
